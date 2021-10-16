@@ -1,5 +1,5 @@
 # SeminarC_TUBAF
-Autor: Christoph Pooch MatNr. 64664
+Autor: Christoph Pooch 
 
 Die Hausarbeit befindet sich im Ordner Hausarbeit als Hausarbeit.pdf
 
