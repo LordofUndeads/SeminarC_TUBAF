@@ -1,0 +1,20 @@
+\babel@toc {nil}{}
+\contentsline {section}{\numberline {1}Einleitung}{3}%
+\contentsline {section}{\numberline {2}Konzept Hashmap}{3}%
+\contentsline {subsection}{\numberline {2.1}Assoziativer Speicher}{3}%
+\contentsline {subsection}{\numberline {2.2}Hashfunktion}{4}%
+\contentsline {subsection}{\numberline {2.3}Verschiedene Typen von Hashmaps}{6}%
+\contentsline {subsubsection}{\numberline {2.3.1}Offene Hashmaps}{6}%
+\contentsline {subsubsection}{\numberline {2.3.2}Linked Hashmaps}{7}%
+\contentsline {section}{\numberline {3}Implementierung}{9}%
+\contentsline {subsection}{\numberline {3.1}Package}{9}%
+\contentsline {subsection}{\numberline {3.2}Hashmap Struct}{10}%
+\contentsline {subsection}{\numberline {3.3}Hashmap erstellen}{11}%
+\contentsline {subsection}{\numberline {3.4}Hashmap löschen}{12}%
+\contentsline {subsection}{\numberline {3.5}Daten einfügen, lesen und löschen}{13}%
+\contentsline {subsection}{\numberline {3.6}Einfache Hashfunktion}{14}%
+\contentsline {subsection}{\numberline {3.7}Automatische Größenanpassung der Hashmap}{15}%
+\contentsline {subsection}{\numberline {3.8}Fehlerbehandlung}{15}%
+\contentsline {section}{\numberline {4}Benchmarking}{16}%
+\contentsline {section}{\numberline {5}Zusammenfassung}{17}%
+\contentsline {section}{\numberline {6}Quellen}{18}%

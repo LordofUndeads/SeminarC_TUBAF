@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.5.27)  16 OCT 2021 14:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.5.27)  17 OCT 2021 20:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -129,11 +129,29 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen148
 \Gin@req@width=\dimen149
-) (/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/02/14 3.40 The Babel package
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+)
+Package babel Info: You haven't specified a language. I'll use 'nil'
+(babel)             as the main language. Reported on input line 572.
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/nil.ldf
+Language: nil 2020/02/14 3.40 Nil language
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count195
+\U@D=\dimen150
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count196
+)
+\l@nil=\language85
+)) (/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
  (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count195
+\c@float@type=\count197
 \float@exts=\toks23
 \float@box=\box49
 \@float@everytoks=\toks24
@@ -142,22 +160,22 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \@float@every@algorithm=\toks25
-\c@algorithm=\count196
+\c@algorithm=\count198
 ) (/usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
 Package: algpseudocode 
  (/usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
-\c@ALG@line=\count197
-\c@ALG@rem=\count198
-\c@ALG@nested=\count199
+\c@ALG@line=\count199
+\c@ALG@rem=\count266
+\c@ALG@nested=\count267
 \ALG@tlm=\skip52
 \ALG@thistlm=\skip53
-\c@ALG@Lnr=\count266
-\c@ALG@blocknr=\count267
-\c@ALG@storecount=\count268
-\c@ALG@tmpcounter=\count269
+\c@ALG@Lnr=\count268
+\c@ALG@blocknr=\count269
+\c@ALG@storecount=\count270
+\c@ALG@tmpcounter=\count271
 \ALG@tmplength=\skip54
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
@@ -178,7 +196,7 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count270
+\l__kernel_color_stack_int=\count272
 \l__pdf_internal_box=\box51
 ) (/mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Hausarbeit.aux)
 \openout1 = `Hausarbeit.aux'.
@@ -197,19 +215,19 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
 LaTeX Font Info:    ... okay on input line 49.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
 LaTeX Font Info:    ... okay on input line 49.
-\c@lstlisting=\count271
+\c@lstlisting=\count273
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count272
-\scratchdimen=\dimen150
+\scratchcounter=\count274
+\scratchdimen=\dimen151
 \scratchbox=\box52
-\nofMPsegments=\count273
-\nofMParguments=\count274
+\nofMPsegments=\count275
+\nofMParguments=\count276
 \everyMPshowfont=\toks26
-\MPscratchCnt=\count275
-\MPscratchDim=\dimen151
-\MPnumerator=\count276
-\makeMPintoPDFobject=\count277
+\MPscratchCnt=\count277
+\MPscratchDim=\dimen152
+\MPnumerator=\count278
+\makeMPintoPDFobject=\count279
 \everyMPtoPDFconversion=\toks27
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -224,98 +242,229 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Underfull \hbox (badness 10000) in paragraph at lines 52--73
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Hausarbeit.toc)
+\tf@toc=\write3
+\openout3 = `Hausarbeit.toc'.
+
+ [2]
+Overfull \hbox (10.90125pt too wide) in paragraph at lines 55--76
+\OT1/cmr/m/n/10.95 in der Programmiersprach C. Eine Hashmap, wie in einem Folgenden Abschnitt
+ []
+
+
+Overfull \hbox (19.3876pt too wide) in paragraph at lines 55--76
+\OT1/cmr/m/n/10.95 Umsetzung eben dieser Datenstruktur als Bibliothek f^^?ur die Programmiersprache
+ []
+
+
+Overfull \hbox (7.1284pt too wide) in paragraph at lines 55--76
+\OT1/cmr/m/n/10.95 C eingegangen und alle Funktionalit^^?aten, wie auch Herangehensweisen erkl^^?art. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--76
 
  []
 
 
-Overfull \hbox (4.02708pt too wide) in paragraph at lines 77--103
-\OT1/cmr/m/n/10.95 tiven Spe-ich-ers ist als Kopm-romiss zwis-chen Zu-griff-szeit und Spe-ich-er-nutzung
+Overfull \hbox (29.56694pt too wide) in paragraph at lines 55--76
+\OT1/cmr/m/n/10.95 genauer Ubuntu 20.04. Dies diente der einfachen Nutzung der Programmiersprache
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--103
-
- []
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Overfull \hbox (4.90915pt too wide) in paragraph at lines 106--122
-\OT1/cmr/m/n/10.95 Vorallem die er-ste Eigen-schaft, die Ein-deutigkeit, hat eine beson-ders n^^?utzliche
+Overfull \hbox (5.39583pt too wide) in paragraph at lines 55--76
+\OT1/cmr/m/n/10.95 Als Entwicklungsumbegbung wurde Visual Studio Code (VSCode) verwendet,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--131
+Overfull \hbox (5.60757pt too wide) in paragraph at lines 55--76
+\OT1/cmr/m/n/10.95 zus^^?atzlich auch LaTeX und vieles mehr ^^?uber die Extensionfunktion integrieren
+ []
+
+
+Overfull \hbox (9.92798pt too wide) in paragraph at lines 80--106
+\OT1/cmr/m/n/10.95 Alternativ funktioniert ein assoziativer Speicherzugriff ^^?uber einen Speicherwert
+ []
+
+
+Overfull \hbox (17.82616pt too wide) in paragraph at lines 80--106
+\OT1/cmr/m/n/10.95 oder Schl^^?ussel (Key). Dieser Schl^^?ussel wird dann auf einen Datensatz abgebildet.
+ []
+
+
+Overfull \hbox (10.08pt too wide) in paragraph at lines 80--106
+\OT1/cmr/m/n/10.95 eindeutig zugeordnet und so kann man schnell ^^?uber die Eingabe eines Schl^^?ussel-
+ []
+
+
+Overfull \hbox (1.15771pt too wide) in paragraph at lines 80--106
+\OT1/cmr/m/n/10.95 wertes auf die gew^^?unschten Daten zugreifen. Dieser Ansatz eines assoziativen
+ []
+
+
+Overfull \hbox (4.16899pt too wide) in paragraph at lines 80--106
+\OT1/cmr/m/n/10.95 speicherintensive Schl^^?usselwerte, um die Eindeutigkeit zu gew^^?ahrleisten. Man
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--106
 
  []
 
 [3]
-<Bilder/Hashmap_example_basic.PNG, id=17, 208.52907pt x 258.9675pt>
+Overfull \hbox (4.75714pt too wide) in paragraph at lines 109--125
+\OT1/cmr/m/n/10.95 der Ausf^^?uhrung dieser Abbildung und die Unumkehrbarkeit dieser Abbildung. 
+ []
+
+
+Overfull \hbox (4.90915pt too wide) in paragraph at lines 109--125
+\OT1/cmr/m/n/10.95 Vorallem die erste Eigenschaft, die Eindeutigkeit, hat eine besonders n^^?utzliche
+ []
+
+
+Overfull \hbox (12.3694pt too wide) in paragraph at lines 109--125
+\OML/cmm/m/it/10.95 O\OT1/cmr/m/n/10.95 (1)$. Das stellt einen bedeutenden Vorteil gegen^^?uber anderen Datenstrukturen
+ []
+
+
+Overfull \hbox (11.99628pt too wide) in paragraph at lines 109--125
+\OT1/cmr/m/n/10.95 Da allerdings der der Speicherbedarf in der Umsetzung eienr Hashmap ebenfalls
+ []
+
+
+Overfull \hbox (1.22876pt too wide) in paragraph at lines 109--125
+\OT1/cmr/m/n/10.95 eine Rolle spielt, wird - wie bereits erw^^?ahnt - gefordert, dass die Hashfunktion
+ []
+
+
+Overfull \hbox (9.73529pt too wide) in paragraph at lines 109--125
+\OT1/cmr/m/n/10.95 der ausschlaggebende Faktor. Verursacht eine Haashfunktion viele Kollisionen,
+ []
+
+[4]
+Overfull \hbox (18.01888pt too wide) in paragraph at lines 125--134
+\OT1/cmr/m/n/10.95 Es ist offenkundig, dass bei der Nutzung der Modulo-Operation als Hashfunktion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--134
+
+ []
+
+<Bilder/Hashmap_example_basic.PNG, id=20, 208.52907pt x 258.9675pt>
 File: Bilder/Hashmap_example_basic.PNG Graphic file (type png)
 <use Bilder/Hashmap_example_basic.PNG>
-Package pdftex.def Info: Bilder/Hashmap_example_basic.PNG  used on input line 134.
+Package pdftex.def Info: Bilder/Hashmap_example_basic.PNG  used on input line 137.
 (pdftex.def)             Requested size: 104.26427pt x 129.48341pt.
 
-Overfull \hbox (10.00902pt too wide) in paragraph at lines 144--159
-\OT1/cmr/m/n/10.95 bei der Ver-wen-dung von Hash-funk-tio-nen ange-sprochen. Neben der M^^?oglichkeit
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (2.49612pt too wide) in paragraph at lines 142--145
+\OT1/cmr/m/n/10.95 Kollsionen vermeiden m^^?ochte. Hierf^^?ur muss man eine geeignete Hashfunktion
+ []
+
+[5]
+Overfull \hbox (10.00902pt too wide) in paragraph at lines 147--162
+\OT1/cmr/m/n/10.95 bei der Verwendung von Hashfunktionen angesprochen. Neben der M^^?oglichkeit
  []
 
 
-Overfull \hbox (5.15244pt too wide) in paragraph at lines 144--159
-\OT1/cmr/m/n/10.95 eine Funk-tion zu im-ple-men-tieren, welche sehr wenige solcher dop-pel-ter Hashes
+Overfull \hbox (5.15244pt too wide) in paragraph at lines 147--162
+\OT1/cmr/m/n/10.95 eine Funktion zu implementieren, welche sehr wenige solcher doppelter Hashes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--159
+Overfull \hbox (21.8817pt too wide) in paragraph at lines 147--162
+\OT1/cmr/m/n/10.95 ausgeben, welches durch Eingabe des Keys in die Hashfunktion den kollidierenden
+ []
+
+
+Overfull \hbox (9.25879pt too wide) in paragraph at lines 147--162
+\OT1/cmr/m/n/10.95 Ermittelung des Hashes noch durch die []Uberpr^^?ufung durch den Key feststellen,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--159
+Underfull \hbox (badness 10000) in paragraph at lines 147--162
 
  []
 
-[4 </mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/Hashmap_example_basic.PNG>]
-<Bilder/Hashmap_example_open.PNG, id=25, 310.91156pt x 269.50688pt>
+[6 </mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/Hashmap_example_basic.PNG>]
+<Bilder/Hashmap_example_open.PNG, id=31, 310.91156pt x 269.50688pt>
 File: Bilder/Hashmap_example_open.PNG Graphic file (type png)
 <use Bilder/Hashmap_example_open.PNG>
-Package pdftex.def Info: Bilder/Hashmap_example_open.PNG  used on input line 163.
+Package pdftex.def Info: Bilder/Hashmap_example_open.PNG  used on input line 166.
 (pdftex.def)             Requested size: 155.45538pt x 134.7531pt.
- [5 </mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/Hashmap_example_open.PNG>] [6]
-<Bilder/Hashmap_example_linked.PNG, id=33, 498.36188pt x 350.05782pt>
+
+Overfull \hbox (33.1561pt too wide) in paragraph at lines 170--177
+\OT1/cmr/m/n/10.95 umst^^?andlicher durchgef^^?uhrt werden. Beispielsweise w^^?urden dann alle Speicherzellen
+ []
+
+
+Overfull \hbox (13.09126pt too wide) in paragraph at lines 179--191
+\OT1/cmr/m/n/10.95 Reihenfolge ihres auftretens in eine verkettete Liste gespeichert, deren Elemente
+ []
+
+
+Overfull \hbox (1.95876pt too wide) in paragraph at lines 179--191
+\OT1/cmr/m/n/10.95 nicht das, dessen Key mit dem eingegebenen ^^?ubereinstimmt, wird das n^^?achste
+ []
+
+
+Overfull \hbox (8.43748pt too wide) in paragraph at lines 179--191
+\OT1/cmr/m/n/10.95 refferenziert wird und so weiter bist der gew^^?unschte Eintrag an Daten gefunden
+ []
+
+[7 </mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/Hashmap_example_open.PNG>] [8]
+<Bilder/Hashmap_example_linked.PNG, id=40, 498.36188pt x 350.05782pt>
 File: Bilder/Hashmap_example_linked.PNG Graphic file (type png)
 <use Bilder/Hashmap_example_linked.PNG>
-Package pdftex.def Info: Bilder/Hashmap_example_linked.PNG  used on input line 191.
+Package pdftex.def Info: Bilder/Hashmap_example_linked.PNG  used on input line 194.
 (pdftex.def)             Requested size: 249.18033pt x 175.02847pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--197
+Overfull \hbox (18.62411pt too wide) in paragraph at lines 198--200
+[]\OT1/cmr/m/n/10.95 Der Nachteil dieses Konzeptes ist, dass auch eine LinkedList nicht unbegrenzt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--200
 
  []
 
 
-Overfull \hbox (2.8712pt too wide) in paragraph at lines 200--210
-\OT1/cmr/m/n/10.95 Im wesentlichen l^^?asst sich die Im-ple-men-tierung in fol-gen-dem UML-Diagramm
+Overfull \hbox (2.8712pt too wide) in paragraph at lines 203--213
+\OT1/cmr/m/n/10.95 Im wesentlichen l^^?asst sich die Implementierung in folgendem UML-Diagramm
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--210
+Underfull \hbox (badness 10000) in paragraph at lines 203--213
 
  []
 
-<Bilder/UML.PNG, id=34, 548.0475pt x 191.21437pt>
+<Bilder/UML.PNG, id=41, 548.0475pt x 191.21437pt>
 File: Bilder/UML.PNG Graphic file (type png)
 <use Bilder/UML.PNG>
-Package pdftex.def Info: Bilder/UML.PNG  used on input line 213.
+Package pdftex.def Info: Bilder/UML.PNG  used on input line 216.
 (pdftex.def)             Requested size: 274.02307pt x 95.60695pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--222
+Underfull \hbox (badness 10000) in paragraph at lines 221--225
 
  []
 
-[7 </mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/Hashmap_example_linked.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 225--231
+[9 </mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/Hashmap_example_linked.PNG>]
+Overfull \hbox (21.75284pt too wide) in paragraph at lines 228--234
+\OT1/cmr/m/n/10.95 der Hashmap [][][][], welche als nicht-negative ganze Zahl, als [][][][] gespeichert
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--234
 
  []
 
@@ -324,118 +473,194 @@ File: lstlang1.sty 2019/09/10 1.8c listings language file
 ) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
 )
-Underfull \hbox (badness 10000) in paragraph at lines 242--247
-
- []
-
-[8 </mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/UML.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 258--261
-
+Overfull \hbox (4.37329pt too wide) in paragraph at lines 245--250
+\OT1/cmr/m/n/10.95 Konzepts handelt, sind sowohl die [][][][] als auch die [][][][] Variable vom Datentyp
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--274
+Underfull \hbox (badness 10000) in paragraph at lines 245--250
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 280--283
-
- []
-
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 314--319
-
- []
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 331--341
+[10 </mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/UML.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 261--264
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--375
+Underfull \hbox (badness 10000) in paragraph at lines 273--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--286
 
  []
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 384--392
-
+Overfull \hbox (1.18114pt too wide) in paragraph at lines 317--322
+\OT1/cmr/m/n/10.95 mit ungenutzten Datenfragmenten. Hierf^^?ur dient die Funktion []
  []
 
 
-Overfull \hbox (0.80292pt too wide) in paragraph at lines 405--414
-\OT1/cmr/m/n/10.95 Zuerst m^^?ussen zwei Puffer-ar-ray re-serviert wer-den, in-dem alle in der Hashmap
- []
+Underfull \hbox (badness 10000) in paragraph at lines 317--322
 
-
-Overfull \hbox (9.55272pt too wide) in paragraph at lines 405--414
-\OT1/cmr/m/n/10.95 befind-lichen Daten zwis-chenge-spe-ichert wer-den k^^?onnen. Eines f^^?ur die Schl^^?ussel
  []
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 417--419
+Underfull \hbox (badness 10000) in paragraph at lines 334--344
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--378
 
  []
 
 [13]
-<Bilder/100e.PNG, id=63, 337.26pt x 66.2475pt>
+Overfull \hbox (34.04585pt too wide) in paragraph at lines 379--384
+\OT1/cmr/m/n/10.95 beim Einf^^?ugen auf [][][][] gesetzt wurde, jetzt der Wert []
+ []
+
+
+Overfull \hbox (14.94664pt too wide) in paragraph at lines 387--395
+\OT1/cmr/m/n/10.95 verwendet, allerdings mit einer minimalen Abweichung zur rein mathematischen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--395
+
+ []
+
+
+Overfull \hbox (4.32106pt too wide) in paragraph at lines 408--417
+\OT1/cmr/m/n/10.95 ^^?andert. M^^?oglicherweise kann man vorher nicht absch^^?atzen, wie viele Elemente
+ []
+
+
+Overfull \hbox (0.80292pt too wide) in paragraph at lines 408--417
+\OT1/cmr/m/n/10.95 Zuerst m^^?ussen zwei Pufferarray reserviert werden, indem alle in der Hashmap
+ []
+
+
+Overfull \hbox (9.55272pt too wide) in paragraph at lines 408--417
+\OT1/cmr/m/n/10.95 befindlichen Daten zwischengespeichert werden k^^?onnen. Eines f^^?ur die Schl^^?ussel
+ []
+
+
+Overfull \hbox (1.05885pt too wide) in paragraph at lines 408--417
+\OT1/cmr/m/n/10.95 und eins f^^?ur die Daten. Jetzt kann das Array [][][][] mittels der Funktion
+ []
+
+
+Overfull \hbox (4.5512pt too wide) in paragraph at lines 408--417
+[][][][][][] \OT1/cmr/m/n/10.95 auf seine neue Gr^^?o^^Ye gesetzt werden. Danach k^^?onnen die Datens^^?atze
+ []
+
+[14]
+Overfull \hbox (20.42357pt too wide) in paragraph at lines 420--422
+\OT1/cmr/m/n/10.95 einen Fehlercode aus, welche in der Variable [][][][][][][][] dieser Funktion gespeichert
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 420--422
+
+ []
+
+[15]
+<Bilder/100e.PNG, id=69, 337.26pt x 66.2475pt>
 File: Bilder/100e.PNG Graphic file (type png)
 <use Bilder/100e.PNG>
-Package pdftex.def Info: Bilder/100e.PNG  used on input line 473.
+Package pdftex.def Info: Bilder/100e.PNG  used on input line 476.
 (pdftex.def)             Requested size: 168.62958pt x 33.12366pt.
-<Bilder/1000e.PNG, id=64, 353.06906pt x 66.2475pt>
+<Bilder/1000e.PNG, id=70, 353.06906pt x 66.2475pt>
 File: Bilder/1000e.PNG Graphic file (type png)
 <use Bilder/1000e.PNG>
-Package pdftex.def Info: Bilder/1000e.PNG  used on input line 480.
+Package pdftex.def Info: Bilder/1000e.PNG  used on input line 483.
 (pdftex.def)             Requested size: 176.53409pt x 33.12366pt.
-<Bilder/10000e.PNG, id=65, 349.305pt x 65.49469pt>
+<Bilder/10000e.PNG, id=71, 349.305pt x 65.49469pt>
 File: Bilder/10000e.PNG Graphic file (type png)
 <use Bilder/10000e.PNG>
-Package pdftex.def Info: Bilder/10000e.PNG  used on input line 486.
+Package pdftex.def Info: Bilder/10000e.PNG  used on input line 489.
 (pdftex.def)             Requested size: 174.65207pt x 32.74725pt.
-<Bilder/hashfunctions_diag.png, id=66, 641.39626pt x 354.32375pt>
+<Bilder/hashfunctions_diag.png, id=72, 641.39626pt x 354.32375pt>
 File: Bilder/hashfunctions_diag.png Graphic file (type png)
 <use Bilder/hashfunctions_diag.png>
-Package pdftex.def Info: Bilder/hashfunctions_diag.png  used on input line 496.
+Package pdftex.def Info: Bilder/hashfunctions_diag.png  used on input line 499.
 (pdftex.def)             Requested size: 320.69734pt x 177.16144pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--499
+Overfull \hbox (21.608pt too wide) in paragraph at lines 469--502
+\OT1/cmr/m/n/10.95 auftritt, die Zeit zum Einf^^?ugen eines Datensatzes, die Dauer der Einf^^?ugeoperation
+ []
+
+
+Overfull \hbox (16.13293pt too wide) in paragraph at lines 469--502
+\OT1/cmr/m/n/10.95 aller Datens^^?atze und die durchschnittliche Lesedauer f^^?ur ein Element aufgef^^?uhrt.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--502
  
+ []
+
+
+Overfull \hbox (9.22829pt too wide) in paragraph at lines 469--502
+\OT1/cmr/m/n/10.95 Um noch einen Vergleich zwischen verschiedenen Hashfunktionen anzubringen,
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[14 </mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/100e.PNG> </mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/1000e.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 502--515
+[16 </mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/100e.PNG> </mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/1000e.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 505--518
 
  []
 
 
-Overfull \hbox (9.47177pt too wide) in paragraph at lines 502--515
-\OT1/cmr/m/n/10.95 Abseits dessen funk-tion-iert die Hashmap-bib-lio-thek ohne Prob-leme und k^^?onnte,
+Overfull \hbox (9.19789pt too wide) in paragraph at lines 505--518
+\OT1/cmr/m/n/10.95 von ausschlie^^Ylich Integer Datentypen auf mehere m^^?ogliche Datentypen mittels
  []
 
-[15 </mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/10000e.PNG> </mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/hashfunctions_diag.png (PNG copy)>]
-Overfull \hbox (20.59547pt too wide) in paragraph at lines 519--520
+
+Overfull \hbox (9.47177pt too wide) in paragraph at lines 505--518
+\OT1/cmr/m/n/10.95 Abseits dessen funktioniert die Hashmapbibliothek ohne Probleme und k^^?onnte,
+ []
+
+
+Overfull \hbox (2.50623pt too wide) in paragraph at lines 505--518
+\OT1/cmr/m/n/10.95 unter der Ma^^Ygabe der Nutzung von ausschlie^^Ylich Intergern, genutzt werden. 
+ []
+
+[17 </mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/10000e.PNG> </mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/hashfunctions_diag.png (PNG copy)>]
+Overfull \hbox (20.59547pt too wide) in paragraph at lines 522--523
 []\OT1/cmr/m/n/10.95 ] $\OML/cmm/m/it/10.95 https \OT1/cmr/m/n/10.95 : \OML/cmm/m/it/10.95 ==www:ionos:de=digitalguide=server=sicherheit=hashfunktion=$ 
  []
 
-[16] (/mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Hausarbeit.aux) ) 
+[18]
+<Bilder/sse.PNG, id=87, 398.23781pt x 149.8097pt>
+File: Bilder/sse.PNG Graphic file (type png)
+<use Bilder/sse.PNG>
+Package pdftex.def Info: Bilder/sse.PNG  used on input line 533.
+(pdftex.def)             Requested size: 398.23683pt x 149.80931pt.
+
+Overfull \hbox (38.23683pt too wide) in paragraph at lines 533--534
+ [][] 
+ []
+
+[19 </mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/sse.PNG>] (/mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Hausarbeit.aux) ) 
 Here is how much of TeX's memory you used:
- 5238 strings out of 481239
- 69278 string characters out of 5920377
- 591065 words of memory out of 5000000
- 20447 multiletter control sequences out of 15000+600000
+ 5844 strings out of 481239
+ 77759 string characters out of 5920377
+ 603661 words of memory out of 5000000
+ 21032 multiletter control sequences out of 15000+600000
  542685 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  30i,8n,53p,361b,1664s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on "/mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Hausarbeit.pdf" (16 pages, 296683 bytes).
+Output written on "/mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Hausarbeit.pdf" (19 pages, 311703 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
+ 132 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

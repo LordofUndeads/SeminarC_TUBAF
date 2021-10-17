@@ -45,6 +45,13 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/nil.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/nil.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
@@ -100,21 +107,24 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 OUTPUT /mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Hausarbeit.pdf
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Hausarbeit.toc
+INPUT /mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Hausarbeit.toc
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+OUTPUT /mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Hausarbeit.toc
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/Hashmap_example_basic.PNG
 INPUT /mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/Hashmap_example_basic.PNG
 INPUT /mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/Hashmap_example_basic.PNG
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/Hashmap_example_open.PNG
 INPUT /mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/Hashmap_example_open.PNG
 INPUT /mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/Hashmap_example_open.PNG
@@ -143,6 +153,9 @@ INPUT /mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/10000e.PNG
 INPUT /mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/hashfunctions_diag.png
 INPUT /mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/hashfunctions_diag.png
 INPUT /mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/hashfunctions_diag.png
+INPUT /mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/sse.PNG
+INPUT /mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/sse.PNG
+INPUT /mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Bilder/sse.PNG
 INPUT /mnt/d/Universität/4. Semester/SeminarC/Code/Hausarbeit/Hausarbeit.aux
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
